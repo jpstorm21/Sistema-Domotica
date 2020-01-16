@@ -1,0 +1,15 @@
+{
+  "hostname": "http://localhost:9006",
+  "basename": "",
+  "staticPath": "",
+  "uploadPath": "upload",
+  "staticFolderPath": "src/static",
+  "client": {
+    "home": "/",
+    "login": "/login",
+    "user": "/user",
+    "userList": "/userList",
+    "userNFC":"/userNFC",
+    "remoteControl":"/remoteControl"
+  }
+}
